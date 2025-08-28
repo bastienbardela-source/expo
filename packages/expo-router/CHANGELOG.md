@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [web] add matcher support for server middleware ([#39225](https://github.com/expo/expo/pull/39225) by [@hassankhan](https://github.com/hassankhan))
+
 ### 🐛 Bug fixes
 
 - Prevent incorrect path rewrites when a URL is present in query parameters ([#39146](https://github.com/expo/expo/pull/39146) by [@hassankhan](https://github.com/hassankhan))
